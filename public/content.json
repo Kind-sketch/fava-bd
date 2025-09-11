@@ -1,0 +1,98 @@
+{
+  "title": "FAVA'S 27TH BIRTHDAY",
+  "themeDefaults": {
+    "--slide-bg": "20 14% 98%",
+    "--slide-text": "240 10% 15%",
+    "--slide-accent": "45 100% 70%",
+    "--slide-card-bg": "20 20% 96%"
+  },
+  "slides": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "title": "Happy Birthday FAVA!",
+      "subtitle": "OMG YOUR 27TH BIRTHDAY",
+      "image": "/header.svg",
+      "cta": {
+        "text": "🎵 നമ്മൾ തുടങ്ങാം",
+        "action": "next_slide"
+      },
+      "theme": {
+        "--slide-bg": "45 100% 95%",
+        "--slide-text": "240 10% 15%",
+        "--slide-accent": "320 60% 60%"
+      },
+      "transcript": "Happy birthday song playing with celebration music"
+    },
+    {
+      "id": "wishes",
+      "type": "wishes",
+      "title": "Birthday Wishes",
+      "subtitle": "From all your loved ones",
+      "content": {
+        "wishes": [
+          {
+            "author": "kifu",
+            "message": "Happy birthday to my brother who is Batman/Captain America/Nightwing/DQ.",
+            "image": "/farhaan_kifu.svg"
+          },
+          {
+            "author": "Mom & Dad",
+            "message": "To our Eldest son, we wish u the happiest Birthday!",
+            "image": "/mom&dad1.svg"
+          },
+          {
+            "author": "Ajay & Justin:D",
+            "message": "Happy birthday bro! We are expecting a partner and an Invitation any time soon!",
+            "image": "/ajay&justin.svg"
+          },
+          {
+            "author": "Hilal Ka",
+            "message": "സ്നേഹമുള്ള ഫർഹാൻ ... മഞ്ഞ പാന്റ്",
+            "image": "/hilalka.svg"
+          },
+          {
+            "author": "Cousins",
+            "message": "Many Many Happy returns for the day!!",
+            "image": "/cousin1.svg"
+          },
+          {
+            "author": "ALL OF US",
+            "message": "Happy birthday to FAVA!",
+            "image": "/allofus.svg"
+          }
+        ]
+      },
+
+      "theme": {
+        "--slide-bg": "320 20% 96%",
+        "--slide-accent": "45 100% 65%"
+      },
+      "transcript": "Heartfelt birthday wishes"
+    },
+    {
+      "id": "memories",
+      "type": "gallery",
+      "title": "Memory Lane",
+      "subtitle": "............",
+      "images": [
+        "/1.svg",
+        "/2.svg",
+        "/3.svg",
+        "/cousins.svg",
+        "/fam.svg"
+      ],
+      "audio": {
+        "url": "/Kiliye Kiliye - Afrobeat Mix (PenduJatt.Com.Se).mp3",
+        "loop": true,
+        "fadeInMs": 600,
+        "fadeOutMs": 400
+      },
+      "theme": {
+        "--slide-bg": "200 30% 96%",
+        "--slide-accent": "320 60% 60%"
+      },
+      "transcript": ".................................."
+    }
+  ]
+}
